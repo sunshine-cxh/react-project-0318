@@ -1,0 +1,3 @@
+export const GET_USER_LIST = "GET_USER_LIST";
+export const GET_SEC_SUBJECT_LIST = 'GET_SEC_SUBJECT_LIST'
+
